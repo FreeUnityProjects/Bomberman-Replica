@@ -1,0 +1,3 @@
+[submodule "Bomberman/Assets/NorLibUnity"]
+	path = Bomberman/Assets/NorLibUnity
+	url = git@github.com:tacman/NorLibUnity.git
